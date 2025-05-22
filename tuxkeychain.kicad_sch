@@ -7374,7 +7374,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "160k"
+		(property "Value" "150k"
 			(at 54.61 36.83 0)
 			(effects
 				(font
@@ -8118,7 +8118,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "500k"
+		(property "Value" "470k"
 			(at 69.215 31.75 90)
 			(effects
 				(font
@@ -11812,7 +11812,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "160k"
+		(property "Value" "150k"
 			(at 54.61 62.23 0)
 			(effects
 				(font
@@ -12097,7 +12097,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "60k"
+		(property "Value" "56k"
 			(at 69.215 57.15 90)
 			(effects
 				(font
@@ -12834,7 +12834,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "160k"
+		(property "Value" "150k"
 			(at 99.06 36.83 0)
 			(effects
 				(font
@@ -13260,7 +13260,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "360k"
+		(property "Value" "330k"
 			(at 113.665 31.75 90)
 			(effects
 				(font
