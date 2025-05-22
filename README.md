@@ -3,7 +3,7 @@ Keychain shaped like Tux, the Linux mascot. But it's not just a keychain, it run
 
 Unfortunately this is more expensive than usual due to tariffs and inflation. (Probably cheaper in other countries.)
 
-NOTE: This is still in the prototype stage, changes to the design are likely. It doesn't even look like Tux yet!
+NOTE: This is still in the prototype stage, changes to the design are likely.
 
 ## Manufacturing
 - This is a 4-layer PCB so it can fit in the Tux keychain form factor.
