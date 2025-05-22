@@ -19,16 +19,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Setup APT repositories
+      - name: Install KiCad 9.0
         run: |
           sudo add-apt-repository --yes ppa:kicad/kicad-9.0-releases
           sudo apt update
-
-      - uses: awalsh128/cache-apt-pkgs-action@latest
-        with:
-          packages: kicad kicad-demos kicad-doc-en kicad-footprints kicad-libraries kicad-packages3d kicad-symbols poppler-utils
-          version: 1.0
-          execute_install_scripts: true
+          sudo apt install --install-recommends kicad poppler-utils
 
       - name: Generate Images
         run: |
