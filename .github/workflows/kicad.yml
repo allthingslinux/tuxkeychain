@@ -72,7 +72,7 @@ jobs:
           
       - name: Attempt to fix install issues
         run: |
-          sudo apt install -y --no-install-recommends kicad kicad-demos kicad-doc-en kicad-footprints kicad-libraries kicad-packages3d kicad-symbols poppler-utils
+          sudo apt install -y --no-install-recommends kicad-packages3d
 
       - name: Run ERC
         run: |
