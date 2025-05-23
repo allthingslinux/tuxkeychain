@@ -8,7 +8,7 @@
 	(property "Reference" "REF**"
 		(at 0 -4.65 0)
 		(layer "F.SilkS")
-		(uuid "e6db4d68-2926-459b-a951-ec57be8fefff")
+		(uuid "17e4c3f4-d3d3-4ac5-aaae-3e75fa7b1009")
 		(effects
 			(font
 				(size 1 1)
@@ -19,7 +19,7 @@
 	(property "Value" "FFC_1x15_P0.5mm"
 		(at 0 3.45 0)
 		(layer "F.Fab")
-		(uuid "ef3ea5c6-b610-4f56-8e96-cb991e8b63b2")
+		(uuid "a54c66ea-5c7b-4b9d-abda-615c42a88af5")
 		(effects
 			(font
 				(size 1 1)
@@ -31,7 +31,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "0c353c4c-6fe7-45d6-9c6c-fab5b5f9660c")
+		(uuid "3faf9e88-943d-4795-b3a2-f9cf43b8825e")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -43,7 +43,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "7af15a83-2572-4af7-9fd5-b00a76147a74")
+		(uuid "92c0f16d-7db2-49c3-bd03-344a5fd69664")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -820,7 +820,7 @@
 	)
 	(dimension
 		(type orthogonal)
-		(layer "F.SilkS")
+		(layer "Dwgs.User")
 		(uuid "1ee0a05b-98fb-4634-8295-f2ae64f641e2")
 		(pts
 			(xy 5.5 1) (xy 5.5 -2.3)
@@ -846,7 +846,7 @@
 		)
 		(gr_text "3.3"
 			(at 11 -0.65 90)
-			(layer "F.SilkS")
+			(layer "Dwgs.User")
 			(uuid "1ee0a05b-98fb-4634-8295-f2ae64f641e2")
 			(effects
 				(font
@@ -858,7 +858,7 @@
 	)
 	(dimension
 		(type orthogonal)
-		(layer "F.SilkS")
+		(layer "Dwgs.User")
 		(uuid "658c421a-0c69-4aa1-96b5-4ced1be28430")
 		(pts
 			(xy 3.5 -3.45) (xy 3.3 1)
@@ -884,7 +884,7 @@
 		)
 		(gr_text "4.45"
 			(at 9.3 -1.225 90)
-			(layer "F.SilkS")
+			(layer "Dwgs.User")
 			(uuid "658c421a-0c69-4aa1-96b5-4ced1be28430")
 			(effects
 				(font
@@ -896,7 +896,7 @@
 	)
 	(dimension
 		(type orthogonal)
-		(layer "F.SilkS")
+		(layer "Dwgs.User")
 		(uuid "9d05b08f-b875-42a7-bd0c-e5243ecbeb64")
 		(pts
 			(xy 3.5 -2.9) (xy 6.2 -1.3)
@@ -922,7 +922,7 @@
 		)
 		(gr_text "2.7"
 			(at 4.85 -8.2 0)
-			(layer "F.SilkS")
+			(layer "Dwgs.User")
 			(uuid "9d05b08f-b875-42a7-bd0c-e5243ecbeb64")
 			(effects
 				(font

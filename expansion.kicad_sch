@@ -2315,7 +2315,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_1x12_P1.00mm_Vertical_SMD_Pin1Left"
+		(property "Footprint" "tuxkeychain:SolderPads12"
 			(at 195.58 95.25 0)
 			(effects
 				(font
