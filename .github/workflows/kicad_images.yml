@@ -32,6 +32,10 @@ jobs:
           version: 1.0
           execute_install_scripts: true
 
+      - name: Attempt to fix install issues
+        run: |
+          sudo apt install -y --no-install-recommends kicad kicad-demos kicad-doc-en kicad-footprints kicad-libraries kicad-packages3d kicad-symbols poppler-utils
+
       - name: Generate Images
         run: |
           rm images/* || true
