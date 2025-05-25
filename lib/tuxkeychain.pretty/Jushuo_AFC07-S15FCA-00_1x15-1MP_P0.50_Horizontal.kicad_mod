@@ -398,13 +398,13 @@
 	(embedded_fonts no)
 	(model "${KICAD9_3DMODEL_DIR}/Connector_FFC-FPC.3dshapes/Hirose_FH12-15S-0.5SH_1x15-1MP_P0.50mm_Horizontal.wrl"
 		(offset
-			(xyz 0 0 0)
+			(xyz 0 1.5 0)
 		)
 		(scale
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz 0 0 0)
+			(xyz -0 -0 -0)
 		)
 	)
 )
