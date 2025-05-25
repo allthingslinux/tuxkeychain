@@ -2005,7 +2005,7 @@
 				)
 			)
 		)
-		(property "Footprint" "tuxkeychain:FFC_1x15_P0.5mm"
+		(property "Footprint" "tuxkeychain:Jushuo_AFC07-S15FCA-00_1x15-1MP_P0.50_Horizontal"
 			(at 133.35 113.03 0)
 			(effects
 				(font

@@ -1,4 +1,4 @@
-(footprint "FFC_1x15_P0.5mm"
+(footprint "Jushuo_AFC07-S15FCA-00_1x15-1MP_P0.50_Horizontal"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
@@ -8,7 +8,7 @@
 	(property "Reference" "REF**"
 		(at 0 -4.65 0)
 		(layer "F.SilkS")
-		(uuid "17e4c3f4-d3d3-4ac5-aaae-3e75fa7b1009")
+		(uuid "ab07d69d-198f-469c-a3b9-9139a639df13")
 		(effects
 			(font
 				(size 1 1)
@@ -16,10 +16,10 @@
 			)
 		)
 	)
-	(property "Value" "FFC_1x15_P0.5mm"
+	(property "Value" "Jushuo_AFC07-S15FCA-00_1x15-1MP_P0.50_Horizontal"
 		(at 0 3.45 0)
 		(layer "F.Fab")
-		(uuid "a54c66ea-5c7b-4b9d-abda-615c42a88af5")
+		(uuid "df9fe549-ac02-4945-af89-7eda6d495906")
 		(effects
 			(font
 				(size 1 1)
@@ -31,7 +31,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "3faf9e88-943d-4795-b3a2-f9cf43b8825e")
+		(uuid "2d400b94-7763-4609-94c8-ebb77c380f17")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -43,7 +43,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "92c0f16d-7db2-49c3-bd03-344a5fd69664")
+		(uuid "2878591e-d9b8-405a-8880-6ba3135dbe66")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -396,7 +396,7 @@
 		(uuid "638d91db-8043-4c5e-995b-2201aa4dbfc1")
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Connector_FFC-FPC.3dshapes/Amphenol_F32Q-1A7x1-11015_1x15-1MP_P0.5mm_Horizontal.step"
+	(model "${KICAD9_3DMODEL_DIR}/Connector_FFC-FPC.3dshapes/Hirose_FH12-15S-0.5SH_1x15-1MP_P0.50mm_Horizontal.wrl"
 		(offset
 			(xyz 0 0 0)
 		)
