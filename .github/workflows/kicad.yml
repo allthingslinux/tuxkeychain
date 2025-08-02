@@ -70,6 +70,10 @@ jobs:
           version: 1.0
           execute_install_scripts: true
           
+      - name: Attempt to fix install issues
+        run: |
+          sudo apt install -y --no-install-recommends kicad-packages3d
+
       - name: Run ERC
         run: |
           kicad-cli sch erc --output=erc.rpt --exit-code-violations --severity-error tuxkeychain.kicad_sch

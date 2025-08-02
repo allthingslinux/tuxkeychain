@@ -32,6 +32,10 @@ jobs:
           version: 1.0
           execute_install_scripts: true
 
+      - name: Attempt to fix install issues
+        run: |
+          sudo apt install -y --no-install-recommends kicad-packages3d
+
       - name: Generate Images
         run: |
           rm images/* || true

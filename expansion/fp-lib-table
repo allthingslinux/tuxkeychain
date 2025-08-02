@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "tuxkeychain")(type "KiCad")(uri "/home/electron271/Sync/tuxkeychain/lib/tuxkeychain.pretty")(options "")(descr ""))
+)
